@@ -1,0 +1,10 @@
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Resp:
+
+{
+from: "USD",
+to: "INR",
+conversionMultiple: 65,
+environment: "8000"
+}
